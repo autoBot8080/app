@@ -1,0 +1,12 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "openWay": "A",
+    "defaultWay": "A",
+    "urls": [
+      "2334343",
+      "3343434"
+    ]
+  }
+}
